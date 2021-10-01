@@ -7,4 +7,8 @@ HOST-SUFFIX,notion.so,Notion
 DOMAIN,pornemby.club
 
 #Name：Jable
-DOMAIN,jable.tv
+HOST-SUFFIX,jable.tv,jable
+HOST-SUFFIX,assets.jable.tv,jable
+HOST-SUFFIX,assetscdn.jable.tv,jable
+HOST-SUFFIX,assetscdn2.jable.tv,jable
+
